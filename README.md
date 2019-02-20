@@ -1,9 +1,9 @@
 # Parrot Mate
 This is a HackNYU project that was built from 2/15/19-2/17/19.  This is a clone of the original repo which is private because it contains a google API key.  The application features a chat board that displays text in a person's native language (among over 100 choices), an interactive quiz, and a question/answer forum.  The project was built using the Next.JS framework which packages Express and React into a single server with shared dependencies and runtime.  MongoDB was used as the backend.
 
-$ Here is a demo of the site: https://parrotmate.com
+Here is a demo of the site: https://parrotmate.com
 
-$ Below is Devpost description: https://devpost.com/software/parrot-mate
+Below is Devpost description: https://devpost.com/software/parrot-mate
 
 # Inspiration
 The coolest thing about hackathons is that it brings together so many unique individuals from all around the world. Through competition and fun, our differences broaden our understanding and appreciation for life. My friend Danny and I are really passionate about people and technology, so we thought it would be educational and empowering to create a platform that connected people from all around the world.
